@@ -5,5 +5,6 @@ APR LAB 1, MultiLayer Perceptron
 - [Sesión 1](https://github.com/RParedesPalacios/APR_LAB/blob/main/P1/p1.ipynb)
 - [Sesión 2](https://github.com/RParedesPalacios/APR_LAB/blob/main/P2/p2.ipynb)
 - [Sesión 3](https://github.com/RParedesPalacios/APR_LAB/blob/main/P3/p3.ipynb)
+- [Sesión 4](https://github.com/RParedesPalacios/APR_LAB/blob/main/P4/p4.ipynb)
 
 
